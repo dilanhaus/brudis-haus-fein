@@ -1,15 +1,15 @@
 import { createFileRoute } from "@tanstack/react-router";
 const heroVideo = { url: "" };
-const logo = { url: "/assets/brudis-logo.png" };
-const shop = { url: "/assets/shop.jpg" };
-const donerSpit = { url: "/assets/doner-spit.jpg" };
-const salads = { url: "/assets/salads.jpg" };
-const donerMeal = { url: "/assets/doner-meal.jpg" };
-const donerSandwich = { url: "/assets/doner-sandwich.jpg" };
-const donerCombo = { url: "/assets/doner-combo.jpg" };
-const smashBurgerFlag = { url: "/assets/smash-burger-flag.jpg" };
-const smashBurger = { url: "/assets/smash-burger.jpg" };
-const burgerFries = { url: "/assets/burger-fries.jpg" };
+const logo = { url: "/media/brudis-logo.png" };
+const shop = { url: "/media/shop.jpg" };
+const donerSpit = { url: "/media/doner-spit.jpg" };
+const salads = { url: "/media/salads.jpg" };
+const donerMeal = { url: "/media/doner-meal.jpg" };
+const donerSandwich = { url: "/media/doner-sandwich.jpg" };
+const donerCombo = { url: "/media/doner-combo.jpg" };
+const smashBurgerFlag = { url: "/media/smash-burger-flag.jpg" };
+const smashBurger = { url: "/media/smash-burger.jpg" };
+const burgerFries = { url: "/media/burger-fries.jpg" };
 
 export const Route = createFileRoute("/")({
   head: () => ({
