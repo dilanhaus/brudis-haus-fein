@@ -125,7 +125,6 @@ function About() {
             loading="lazy"
             className="aspect-[4/3] w-full rounded-2xl object-cover shadow-[var(--shadow-card)]"
           />
-          <div className="absolute -bottom-6 -right-6 hidden h-32 w-32 rotate-6 rounded-2xl border border-primary/40 bg-primary/10 backdrop-blur sm:block" />
         </div>
         <div>
           <p className="eyebrow">About Brudis</p>
