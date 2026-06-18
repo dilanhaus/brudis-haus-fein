@@ -1,15 +1,15 @@
 import { createFileRoute } from "@tanstack/react-router";
-import heroVideo from "@/assets/brudis-hero.mp4.asset.json";
-import logo from "@/assets/brudis-logo.png.asset.json";
-import shop from "@/assets/shop.jpg.asset.json";
-import donerSpit from "@/assets/doner-spit.jpg.asset.json";
-import salads from "@/assets/salads.jpg.asset.json";
-import donerMeal from "@/assets/doner-meal.jpg.asset.json";
-import donerSandwich from "@/assets/doner-sandwich.jpg.asset.json";
-import donerCombo from "@/assets/doner-combo.jpg.asset.json";
-import smashBurgerFlag from "@/assets/smash-burger-flag.jpg.asset.json";
-import smashBurger from "@/assets/smash-burger-photo.jpg.asset.json";
-import burgerFries from "@/assets/burger-fries.jpg.asset.json";
+const heroVideo = { url: "" };
+const logo = { url: "/assets/brudis-logo.png" };
+const shop = { url: "/assets/shop.jpg" };
+const donerSpit = { url: "/assets/doner-spit.jpg" };
+const salads = { url: "/assets/salads.jpg" };
+const donerMeal = { url: "/assets/doner-meal.jpg" };
+const donerSandwich = { url: "/assets/doner-sandwich.jpg" };
+const donerCombo = { url: "/assets/doner-combo.jpg" };
+const smashBurgerFlag = { url: "/assets/smash-burger-flag.jpg" };
+const smashBurger = { url: "/assets/smash-burger.jpg" };
+const burgerFries = { url: "/assets/burger-fries.jpg" };
 
 export const Route = createFileRoute("/")({
   head: () => ({
