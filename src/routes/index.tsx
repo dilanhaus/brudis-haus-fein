@@ -48,7 +48,9 @@ function Nav() {
           <a href="#visit" className="transition-colors hover:text-primary">Visit</a>
         </nav>
         <a
-          href="#visit"
+          href="https://order.brudis-db.co.uk/"
+          target="_blank"
+          rel="noreferrer"
           className="rounded-full bg-primary px-5 py-2.5 text-sm font-semibold text-primary-foreground shadow-[var(--shadow-glow)] transition-transform hover:scale-[1.03]"
         >
           Order Now
@@ -88,7 +90,9 @@ function Hero() {
         </p>
         <div className="mt-10 flex flex-wrap items-center gap-4">
           <a
-            href="#visit"
+            href="https://order.brudis-db.co.uk/"
+            target="_blank"
+            rel="noreferrer"
             className="rounded-full bg-primary px-7 py-3.5 text-base font-semibold text-primary-foreground shadow-[var(--shadow-glow)] transition-transform hover:scale-[1.03]"
           >
             Order Now
