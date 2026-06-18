@@ -64,16 +64,24 @@ function Hero() {
   return (
     <section id="top" className="relative isolate overflow-hidden">
       <div className="absolute inset-0 -z-10">
-        <video
-          src={heroVideo.url}
-          poster={smashBurgerFlag.url}
-          autoPlay
-          muted
-          loop
-          playsInline
-          preload="auto"
-          className="h-full w-full object-cover opacity-70"
-        />
+        {heroVideo.url ? (
+          <video
+            src={heroVideo.url}
+            poster={smashBurgerFlag.url}
+            autoPlay
+            muted
+            loop
+            playsInline
+            preload="auto"
+            className="h-full w-full object-cover opacity-70"
+          />
+        ) : (
+          <img
+            src={smashBurgerFlag.url}
+            alt=""
+            className="h-full w-full object-cover opacity-70"
+          />
+        )}
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background" />
         <div className="absolute inset-0 bg-gradient-to-r from-background via-background/50 to-transparent" />
       </div>
