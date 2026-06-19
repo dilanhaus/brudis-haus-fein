@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-const heroVideo = { url: "" };
+const heroVideo = { url: "/media/brudis-hero.mp4" };
 const logo = { url: "/media/brudis-logo.png" };
 const shop = { url: "/media/shop.jpg" };
 const donerSpit = { url: "/media/doner-spit.jpg" };
