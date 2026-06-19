@@ -1,5 +1,9 @@
 import { createFileRoute } from "@tanstack/react-router";
-const heroVideo = { url: "" };
+const heroVideo = {
+  localUrl: "/media/brudis-hero.mp4",
+  fallbackUrl:
+    "https://id-preview--c2632095-6547-4d0f-9e94-73315ad95f77.lovable.app/__l5e/assets-v1/440a35e8-ec16-4d43-afbd-3267e04c41ba/brudis-hero.mp4",
+};
 const logo = { url: "/media/brudis-logo.png" };
 const shop = { url: "/media/shop.jpg" };
 const donerSpit = { url: "/media/doner-spit.jpg" };
@@ -64,9 +68,8 @@ function Hero() {
   return (
     <section id="top" className="relative isolate overflow-hidden">
       <div className="absolute inset-0 -z-10">
-        {heroVideo.url ? (
+        {heroVideo.localUrl ? (
           <video
-            src={heroVideo.url}
             poster={smashBurgerFlag.url}
             autoPlay
             muted
@@ -74,7 +77,10 @@ function Hero() {
             playsInline
             preload="auto"
             className="h-full w-full object-cover opacity-70"
-          />
+          >
+            <source src={heroVideo.localUrl} type="video/mp4" />
+            <source src={heroVideo.fallbackUrl} type="video/mp4" />
+          </video>
         ) : (
           <img
             src={smashBurgerFlag.url}
