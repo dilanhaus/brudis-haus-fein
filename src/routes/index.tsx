@@ -95,12 +95,12 @@ function Hero() {
       <div className="mx-auto flex min-h-[92vh] max-w-7xl flex-col justify-center px-6 pb-20 pt-40">
         <p className="eyebrow">Welcome to Brudis</p>
         <h1 className="heading-xl mt-4 max-w-3xl text-5xl text-foreground sm:text-6xl md:text-7xl">
-          Germany's finest doner.{" "}
-          <span className="text-primary">London's best smash burgers.</span>
+          Germany's finest Doner & Burger.{" "}
+          <span className="text-primary">The best of both worlds.</span>
         </h1>
         <p className="mt-6 max-w-xl text-lg text-muted-foreground">
-          Born in Hannover. Built on real ingredients, traditional German recipes, and house-made
-          sauces — served fresh every single day.
+          Born in Hannover. Built on real ingredients, traditional German Doner, fresh incredients,
+          and signature house-made sauces —&nbsp;served fresh daily.
         </p>
         <div className="mt-10 flex flex-wrap items-center gap-4">
           <a
@@ -373,8 +373,8 @@ function Showcase() {
           Fresh ingredients. Authentic recipes. Real flavour.
         </h2>
         <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-          At Brudis, we are committed to serving authentic German doner, quality smash burgers, and
-          exceptional customer service every single day. That's the Brudis way.
+          Born in Hannover. Crafted with authentic German Doner, fresh ingredients, traditional
+          German recipes, and house-made sauces — served fresh every single day.
         </p>
         <p className="mt-6 text-2xl">🔥 🍔 🥙</p>
       </div>
