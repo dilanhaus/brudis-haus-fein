@@ -76,7 +76,7 @@ function Hero() {
             loop
             playsInline
             preload="auto"
-            className="h-full w-full object-cover opacity-70"
+            className="h-full w-full object-cover opacity-85"
           >
             <source src={heroVideo.localUrl} type="video/mp4" />
             <source src={heroVideo.fallbackUrl} type="video/mp4" />
@@ -85,11 +85,11 @@ function Hero() {
           <img
             src={smashBurgerFlag.url}
             alt=""
-            className="h-full w-full object-cover opacity-70"
+            className="h-full w-full object-cover opacity-85"
           />
         )}
-        <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background" />
-        <div className="absolute inset-0 bg-gradient-to-r from-background via-background/50 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-b from-background/45 via-background/25 to-background" />
+        <div className="absolute inset-0 bg-gradient-to-r from-background/70 via-background/35 to-transparent" />
       </div>
 
       <div className="mx-auto flex min-h-[92vh] max-w-7xl flex-col justify-center px-6 pb-20 pt-40">
