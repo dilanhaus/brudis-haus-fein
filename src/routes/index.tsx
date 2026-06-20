@@ -373,8 +373,8 @@ function Showcase() {
           Fresh ingredients. Authentic recipes. Real flavour.
         </h2>
         <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-          At Brudis, we are committed to serving authentic German doner, quality smash burgers, and
-          exceptional customer service every single day. That's the Brudis way.
+          Born in Hannover. Crafted with authentic German Doner, fresh ingredients, traditional
+          German recipes, and house-made sauces — served fresh every single day.
         </p>
         <p className="mt-6 text-2xl">🔥 🍔 🥙</p>
       </div>
