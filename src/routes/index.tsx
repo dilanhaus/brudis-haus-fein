@@ -96,7 +96,7 @@ function Hero() {
         <p className="eyebrow">Welcome to Brudis</p>
         <h1 className="heading-xl mt-4 max-w-3xl text-5xl text-foreground sm:text-6xl md:text-7xl">
           Germany's Finest Doner & Burger.{" "}
-          <span className="text-primary">The best of both worlds.</span>
+          <span className="text-primary block">The best of both worlds.</span>
         </h1>
         <p className="mt-6 max-w-xl text-lg text-muted-foreground">
           Born in Hannover. Crafted with authentic German Doner, fresh ingredients, and signature
