@@ -290,7 +290,7 @@ function Freshness() {
           <div className="overflow-hidden rounded-2xl border border-border bg-card shadow-[var(--shadow-card)]">
             <img
               src={smashBurgerFlag.url}
-              alt="Brudis smash burger with cheese and onions on a sesame bun"
+              alt="Hands holding a freshly made Brudis smash burger with sesame bun, melted cheese, and Brudis flag"
               loading="lazy"
               className="aspect-[4/3] w-full object-cover"
             />
