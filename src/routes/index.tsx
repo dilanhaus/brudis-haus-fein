@@ -5,17 +5,13 @@ const heroVideo = {
     "https://id-preview--c2632095-6547-4d0f-9e94-73315ad95f77.lovable.app/__l5e/assets-v1/440a35e8-ec16-4d43-afbd-3267e04c41ba/brudis-hero.mp4",
 };
 const logo = { url: "/media/brudis-logo.png" };
-import aboutBrudis from "@/assets/about-brudis.jpg.asset.json";
-const shop = { url: aboutBrudis.url };
+const shop = { url: "/media/about-brudis.jpg" };
 const donerSpit = { url: "/media/doner-spit.jpg" };
 const salads = { url: "/media/salads.jpg" };
-import visitShop from "@/assets/visit-shop.jpg.asset.json";
-const donerMeal = { url: visitShop.url };
+const donerMeal = { url: "/media/visit-shop.jpg" };
 const donerSandwich = { url: "/media/doner-sandwich.jpg" };
-import houseMadeSauces from "@/assets/house-made-sauces.jpg.asset.json";
-const donerCombo = { url: houseMadeSauces.url };
-import madeFreshToOrder from "@/assets/made-fresh-to-order.jpg.asset.json";
-const smashBurgerFlag = { url: madeFreshToOrder.url };
+const donerCombo = { url: "/media/house-made-sauces.jpg" };
+const smashBurgerFlag = { url: "/media/made-fresh-to-order.jpg" };
 const smashBurger = { url: "/media/smash-burger.jpg" };
 const burgerFries = { url: "/media/burger-fries.jpg" };
 
