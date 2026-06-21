@@ -140,7 +140,7 @@ function About() {
         <div className="relative">
           <img
             src={shop.url}
-            alt="Brudis trays loaded with smash burgers and curly fries"
+            alt="Brudis chef carving fresh doner from the vertical spit"
             loading="lazy"
             className="aspect-[4/3] w-full rounded-2xl object-cover shadow-[var(--shadow-card)]"
           />
