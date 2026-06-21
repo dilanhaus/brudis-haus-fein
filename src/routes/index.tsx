@@ -186,7 +186,7 @@ function Doner() {
         <div className="order-2 lg:order-1">
           <p className="eyebrow">Authentic German Doner</p>
           <h2 className="heading-xl mt-3 text-4xl text-foreground sm:text-5xl">
-            The taste millions enjoy every day — now served on your street.
+            Born in Germany. Served at Brudis.
           </h2>
           <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
             <p>
