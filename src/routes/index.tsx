@@ -16,7 +16,8 @@ const donerCombo = { url: houseMadeSauces.url };
 import madeFreshToOrder from "@/assets/made-fresh-to-order.jpg.asset.json";
 const smashBurgerFlag = { url: madeFreshToOrder.url };
 const smashBurger = { url: "/media/smash-burger.jpg" };
-const burgerFries = { url: "/media/burger-fries.jpg" };
+import visitShop from "@/assets/visit-shop.jpg.asset.json";
+const burgerFries = { url: visitShop.url };
 
 export const Route = createFileRoute("/")({
   head: () => ({
