@@ -190,21 +190,26 @@ function Doner() {
           </h2>
           <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
             <p>
-              Our doner is sourced directly from Germany, bringing the authentic flavour, texture,
-              and quality that made German doner famous throughout Europe.
+              Our doner is imported directly from Germany, bringing the authentic flavour, quality,
+              and tradition that made Germany doner famous across Europe.&nbsp;
             </p>
             <p>
-              Carefully selected cuts of meat and traditional German recipes. Every skewer is cooked
-              fresh throughout the day to ensure maximum flavour, tenderness, and quality in every
-              bite — chicken or beef, the way it was meant to be enjoyed.
+              Made using carefully selected cuts of premium halal meat and traditional German
+              recipes, every skewer is cooked fresh throughout the day to deliver the perfect
+              balance of flavour, tenderness, and quality. Whether you choose chicken or beef, every
+              bite is a true taste of authentic Germany street food.&nbsp;
+              <br />
+              <br />
+              At Brudis we don't believe in shortcuts. We believe in serving doner the way it should
+              be — fresh, authentic, and full of flavour.&nbsp;
             </p>
           </div>
           <ul className="mt-8 grid gap-3 text-sm text-foreground/90 sm:grid-cols-2">
             {[
               "Imported directly from Germany",
-              "Traditional recipes",
-              "Carved fresh, all day",
-              "Chicken & beef options",
+              "Authentic Germany recipes",
+              "Freshly carved throughout the day",
+              "Available in Chicken & Beef",
             ].map((item) => (
               <li key={item} className="flex items-start gap-2">
                 <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-primary" />
