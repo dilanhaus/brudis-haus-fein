@@ -260,7 +260,9 @@ function Freshness() {
             <div className="p-6">
               <h3 className="font-display text-2xl text-primary">Fresh Salads</h3>
               <p className="mt-2 text-sm text-muted-foreground">
-                Crisp lettuce, ripe tomatoes, pomegranate and herbs — chopped fresh each morning.
+                Freshness is at the heart of every meal we serve. Our salads are prepared fresh daily
+                using quality ingredients to deliver the crispness, flavour, and freshness that
+                authentic German doner is known for.
               </p>
             </div>
           </div>
@@ -272,9 +274,13 @@ function Freshness() {
               className="aspect-[4/3] w-full object-cover"
             />
             <div className="p-6">
-              <h3 className="font-display text-2xl text-primary">House Sauces</h3>
+              <h3 className="font-display text-2xl text-primary">House-MADE Sauces</h3>
               <p className="mt-2 text-sm text-muted-foreground">
-                Our signature garlic, chilli and burger sauces — blended in-house, made daily.
+                From our signature garlic, chilli, curry, cocktail, and exclusive Brudis sauces,
+                every sauce is prepared in-house to deliver the flavours our customers love. We also
+                import some of Germany's most popular favourites, including authentic Joppie sauce
+                and our famous chilli cheese sauce, bringing a true taste of Germany to every
+                meal.&nbsp;
               </p>
             </div>
           </div>
@@ -286,9 +292,12 @@ function Freshness() {
               className="aspect-[4/3] w-full object-cover"
             />
             <div className="p-6">
-              <h3 className="font-display text-2xl text-primary">Made to Order</h3>
+              <h3 className="font-display text-2xl text-primary">Made FRESH to Order</h3>
               <p className="mt-2 text-sm text-muted-foreground">
-                Every burger smashed on the grill the moment you order. Nothing sits, nothing waits.
+                Every burger is cooked fresh to order using premium 150g halal beef patties, smashed
+                on the grill and finished with our signature Brudis seasoning blend for maximum
+                flavour. Our authentic German doner is freshly carved and generously stacked, with a
+                range of options designed to satisfy every appetite.&nbsp;
               </p>
             </div>
           </div>
