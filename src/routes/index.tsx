@@ -13,7 +13,8 @@ const donerMeal = { url: "/media/doner-meal.jpg" };
 const donerSandwich = { url: "/media/doner-sandwich.jpg" };
 import houseMadeSauces from "@/assets/house-made-sauces.jpg.asset.json";
 const donerCombo = { url: houseMadeSauces.url };
-const smashBurgerFlag = { url: "/media/smash-burger-flag.jpg" };
+import madeFreshToOrder from "@/assets/made-fresh-to-order.jpg.asset.json";
+const smashBurgerFlag = { url: madeFreshToOrder.url };
 const smashBurger = { url: "/media/smash-burger.jpg" };
 const burgerFries = { url: "/media/burger-fries.jpg" };
 
@@ -289,7 +290,7 @@ function Freshness() {
           <div className="overflow-hidden rounded-2xl border border-border bg-card shadow-[var(--shadow-card)]">
             <img
               src={smashBurgerFlag.url}
-              alt="Brudis smash burger with cheese and onions on a sesame bun"
+              alt="Hands holding a freshly made Brudis smash burger with sesame bun, melted cheese, and Brudis flag"
               loading="lazy"
               className="aspect-[4/3] w-full object-cover"
             />
