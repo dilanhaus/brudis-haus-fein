@@ -5,7 +5,8 @@ const heroVideo = {
     "https://id-preview--c2632095-6547-4d0f-9e94-73315ad95f77.lovable.app/__l5e/assets-v1/440a35e8-ec16-4d43-afbd-3267e04c41ba/brudis-hero.mp4",
 };
 const logo = { url: "/media/brudis-logo.png" };
-const shop = { url: "/media/shop.jpg" };
+import aboutBrudis from "@/assets/about-brudis.jpg.asset.json";
+const shop = { url: aboutBrudis.url };
 const donerSpit = { url: "/media/doner-spit.jpg" };
 const salads = { url: "/media/salads.jpg" };
 const donerMeal = { url: "/media/doner-meal.jpg" };
@@ -139,7 +140,7 @@ function About() {
         <div className="relative">
           <img
             src={shop.url}
-            alt="Brudis trays loaded with smash burgers and curly fries"
+            alt="Brudis chef carving fresh doner from the vertical spit"
             loading="lazy"
             className="aspect-[4/3] w-full rounded-2xl object-cover shadow-[var(--shadow-card)]"
           />
