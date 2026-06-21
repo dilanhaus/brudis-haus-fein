@@ -99,7 +99,7 @@ function Hero() {
           <span className="text-primary block">The best of both worlds.</span>
         </h1>
         <p className="mt-6 max-w-xl text-lg text-muted-foreground">
-          Born in Hannover. Crafted with authentic German Doner, fresh ingredients, and signature
+          Born in Hanover. Crafted with authentic German Doner, fresh ingredients, and signature
           house-made sauces —&nbsp;served fresh daily.
         </p>
         <div className="mt-10 flex flex-wrap items-center gap-4">
@@ -147,7 +147,7 @@ function About() {
         <div>
           <p className="eyebrow">About Brudis</p>
           <h2 className="heading-xl mt-3 text-4xl text-foreground sm:text-5xl">
-            From the streets of Hannover to the heart of London.
+            From the streets of Hanover to the heart of London.
           </h2>
           <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
             <p>
