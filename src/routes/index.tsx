@@ -460,8 +460,14 @@ function Visit() {
                 </div>
                 <div>
                   <dt className="font-display text-xl text-primary">Contact</dt>
-                  <dd className="mt-1 text-lg text-foreground">
-                    <a href="mailto:info@brudis-db.co.uk" className="hover:text-primary">
+                  <dd className="mt-1 space-y-1 text-lg text-foreground">
+                    <a href="tel:0208143225" className="block hover:text-primary">
+                      0208 143225
+                    </a>
+                    <a href="https://wa.me/447376800524" className="block hover:text-primary">
+                      WhatsApp 07376 800524
+                    </a>
+                    <a href="mailto:info@brudis-db.co.uk" className="block hover:text-primary">
                       info@brudis-db.co.uk
                     </a>
                   </dd>
@@ -479,7 +485,7 @@ function Visit() {
             <div className="relative min-h-[320px] lg:min-h-full">
               <img
                 src={donerMeal.url}
-                alt="Brudis doner with crispy fries and fritz-kola served on a tray"
+                alt="Brudis storefront at 118 High Road, London"
                 loading="lazy"
                 className="absolute inset-0 h-full w-full object-cover"
               />
