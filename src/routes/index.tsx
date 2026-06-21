@@ -322,17 +322,15 @@ function Doner2() {
         <div>
           <p className="eyebrow">The Brudis Doner</p>
           <h2 className="heading-xl mt-3 text-4xl text-foreground sm:text-5xl">
-            Stacked high. Bursting with flavour. Made right.
+            Authentic German Doner. Built the Brudis Way.
           </h2>
           <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
             <p>
-              Tender carved meat, fresh salad, pickled cabbage and our signature white and chilli
-              sauces — layered into a freshly baked bread that holds it all together.
+              Freshly carved German doner, crisp salad, freshly baked bread, and our signature
+              sauces come together to create the authentic flavour that made German doner
+              famous.&nbsp;
             </p>
-            <p>
-              Pair it with crispy seasoned fries and an ice-cold fritz-kola for the full German
-              doner experience.
-            </p>
+            <p>Imported directly from Germany and prepa</p>
           </div>
         </div>
       </div>
