@@ -269,12 +269,12 @@ function Freshness() {
             </div>
           </div>
           <div className="overflow-hidden rounded-2xl border border-border bg-card shadow-[var(--shadow-card)]">
-            <img
-              src={donerCombo.url}
-              alt="Brudis doner sandwich with Mischmasch fritz-kola and house sauce"
-              loading="lazy"
-              className="aspect-[4/3] w-full object-cover"
-            />
+          <img
+            src={donerCombo.url}
+            alt="Tray of Brudis house-made sauces in individual pots including garlic, chilli, curry, cocktail, Joppie and chilli cheese"
+            loading="lazy"
+            className="aspect-[4/3] w-full object-cover"
+          />
             <div className="p-6">
               <h3 className="font-display text-2xl text-primary">House-MADE Sauces</h3>
               <p className="mt-2 text-sm text-muted-foreground">
