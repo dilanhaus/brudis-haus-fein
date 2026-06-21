@@ -330,7 +330,29 @@ function Doner2() {
               sauces come together to create the authentic flavour that made German doner
               famous.&nbsp;
             </p>
-            <p>Imported directly from Germany and prepa</p>
+            <p>
+              Imported directly from Germany and prepared using traditional German recipes, our
+              doner delivers the same taste, texture, and quality enjoyed across Germany every day.
+              One bite and you'll feel like you've been transported back to the streets of
+              Germany.&nbsp;
+              <br />
+              <br />
+              Every serving comes with a generous 150g portion of premium doner meat as standard,
+              with the option to add even more if you're extra hungry.&nbsp;
+              <br />
+              <br />
+              Whether you prefer your doner in freshly baked bread, a wrap, a lahmacun, a loaded
+              platter, or our popular Quick Box for lunch on the go, there's a Brudis doner for
+              every appetite.&nbsp;
+              <br />
+              <br />
+              Prepared fresh throughout the day and stacked generously in every serving, it's a
+              meal built around authenticity, quality, freshness, and flavour in every bite.&nbsp;
+              <br />
+              <br />
+              Pair it with our seasoned fries and an ice-cold Fritz Kola for the full Brudis
+              experience.&nbsp;
+            </p>
           </div>
         </div>
       </div>
