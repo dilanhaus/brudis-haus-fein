@@ -151,19 +151,24 @@ function About() {
           </h2>
           <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
             <p>
-              For years, German doner has been a staple of street food culture across Germany. We
-              built Brudis on a simple idea: bring that same experience to the UK without
-              compromising on quality, freshness, or flavour.
+              German doner has been a cornerstone of street food culture for decades. Inspired by the
+              authentic flavours of Germany, Brudis was created to bring that same experience to
+              London — without comprising on quality, freshness, or flavour.{" "}
             </p>
             <p>
-              Every product we serve is prepared with care — premium ingredients, fresh salad,
-              freshly baked bread, and our signature in-house sauces made daily. From the moment
-              you walk through our doors, our goal is simple: serve food we'd proudly serve to our
-              own family.
+              Every meal is prepared using carefully selected ingredients, fresh daily salad, freshly
+              baked bread, and our signature house-made sauces. From our authentic German doner to
+              our smash burgers, everything is made with the same commitment to consistency and
+              quality that defines the Brudis experience.&nbsp;
+              <br />
+              <br />
+              Our philosophy is simple: serve food we would be proud to share with our own family.
+              Every ingredient matters, every order is prepared with care, and every customer is
+              welcomed as part of the Brudis community.&nbsp;
             </p>
           </div>
           <div className="mt-10 grid grid-cols-3 gap-6 border-t border-border pt-8">
-            <Stat value="100%" label="Halal Beef" />
+            <Stat value="100%" label="HALAL" />
             <Stat value="Daily" label="Fresh Prep" />
             <Stat value="DE→UK" label="Authentic" />
           </div>
