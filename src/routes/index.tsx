@@ -376,16 +376,29 @@ function Burgers() {
         <div>
           <p className="eyebrow">Smash Burgers, Done Properly</p>
           <h2 className="heading-xl mt-3 text-4xl text-foreground sm:text-5xl">
-            No gimmicks. No shortcuts. Just proper smash burgers.
+            Freshly Smashed. Full of Flavour. Unmistakably Brudis.&nbsp;
           </h2>
           <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
             <p>
-              We use premium halal beef, smashed fresh on the grill for the perfect caramelised
-              crust while keeping the inside juicy and tender.
+              Our premium 150g halal beef patties are smashed fresh on the grill, seasoned with our
+              signature Brudis seasoning blend, and cooked to create the perfect caramelised crust
+              while staying juicy on the inside.&nbsp;
             </p>
             <p>
-              Combined with fresh toppings, melted cheese, and our signature sauces — every burger
-              is made to order and packed with flavour. The Brudis way.
+              Combined with fresh toppings, melted cheese, house-made sauces, and toasted sesame
+              seed buns, every burger is prepared fresh to order and built for maximum flavour.&nbsp;
+              <br />
+              <br />
+              From our Classic Cheeseburger to our signature Brudis Burger, every burger is
+              crafted with quality ingredients and attention to detail, delivering the flavour and
+              consistency our customers have come to expect.&nbsp;
+              <br />
+              <br />
+              And no burger experience is complete without our famous Brudis Fries —&nbsp;perfectly
+              seasoned, crispy, golden, and the ideal side to any meal.&nbsp;
+              <br />
+              <br />
+              Simple ingredients. Proper technique. Expectional taste. The Brudis Way.&nbsp;
             </p>
           </div>
         </div>
