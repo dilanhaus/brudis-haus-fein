@@ -460,14 +460,14 @@ function Visit() {
                   <dd className="mt-1 space-y-1 text-lg text-foreground">
                     <a
                       href="tel:02081432225"
-                      className="inline-flex items-center gap-2 hover:text-primary"
+                      className="flex items-center gap-2 hover:text-primary"
                     >
                       <Phone className="h-5 w-5" aria-hidden="true" />
                       0208 1432 225
                     </a>
                     <a
                       href="https://wa.me/447376800524"
-                      className="inline-flex items-center gap-2 hover:text-primary"
+                      className="flex items-center gap-2 hover:text-primary"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
