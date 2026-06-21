@@ -191,13 +191,13 @@ function Doner() {
           <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
             <p>
               Our doner is imported directly from Germany, bringing the authentic flavour, quality,
-              and tradition that made Germany doner famous across Europe.&nbsp;
+              and tradition that made German doner famous across Europe.&nbsp;
             </p>
             <p>
               Made using carefully selected cuts of premium halal meat and traditional German
               recipes, every skewer is cooked fresh throughout the day to deliver the perfect
               balance of flavour, tenderness, and quality. Whether you choose chicken or beef, every
-              bite is a true taste of authentic Germany street food.&nbsp;
+              bite is a true taste of authentic German doner.&nbsp;
               <br />
               <br />
               At Brudis we don't believe in shortcuts. We believe in serving doner the way it should
@@ -207,7 +207,7 @@ function Doner() {
           <ul className="mt-8 grid gap-3 text-sm text-foreground/90 sm:grid-cols-2">
             {[
               "Imported directly from Germany",
-              "Authentic Germany recipes",
+              "Authentic Germany doner recipes",
               "Freshly carved throughout the day",
               "Available in Chicken & Beef",
             ].map((item) => (
